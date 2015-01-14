@@ -29,7 +29,7 @@ Final grade = 50% Homework + 50% Projects + 0% Tests
 -- This is a comment in haskell.
 {- So is this. -}
 ```
-* Submit homework to tomahawkins@gmail.com with subject: [fp-intro-homework] <date>
+* Submit homework to tomahawkins@gmail.com with subject: [fp-intro-homework] \<date\>
 
 
 ## Projects
