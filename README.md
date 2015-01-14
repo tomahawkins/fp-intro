@@ -2,7 +2,7 @@
 
 Class homepage:  https://github.com/tomahawkins/fp-intro
 
-## Prereqs
+## Prerequisites
 
 * A laptop.
   * Bring it to class, open it up, and turn it on.  This class is hands on.
@@ -10,22 +10,26 @@ Class homepage:  https://github.com/tomahawkins/fp-intro
   * VIM or EMACS.  Please learn one or the other.
 * A basic knowledge of your OS (Mac, Windows, Linux).
 * No fear of the command line.
-  * Terminal (Mac, Linux),  Command Prompt (Windows).
+  * Terminal (Mac, Linux),  Command Prompt or Cygwin (Windows).
 * The [Haskell Platform](http://www.haskell.org/platform/) installed.
 
-# Grading (we are pretending this class is for credit)
+# Grading (let's pretend this class is for credit)
 
 Final grade = 50% Homework + 50% Projects + 0% Tests
 
 ## Homework
 
-* Due each day of class, i.e. when ever I check my email that afternoon.
-* Homework is 
-
-### Submitting Homework
-
-* email to: tomahawkins@gmail.com
-* with subject: [fp-intro-homework] 4/4
+* Due each day of class, i.e. when I check my email that afternoon.
+* Homework is comprised of one (sometimes more) Haskell programming files
+  exploring the programming problems of the day.
+  * Try things!
+  * Write comments.  What works, what doesn't.
+    What do you understand?  What is confusing?
+```haskell
+-- This is a comment in haskell.
+{- So is this. -}
+```
+* Submit homework to tomahawkins@gmail.com with subject: [fp-intro-homework] <date>
 
 
 ## Projects
