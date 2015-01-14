@@ -13,6 +13,14 @@ Class homepage:  https://github.com/tomahawkins/fp-intro
   * Terminal (Mac, Linux),  Command Prompt or Cygwin (Windows).
 * The [Haskell Platform](http://www.haskell.org/platform/) installed.
 
+## Useful Resources
+
+* http://www.haskell.org/
+* Haskell on [stackoverflow](http://stackoverflow.com/questions/tagged?tagnames=haskell)
+* Haskell [Mailing lists](https://www.haskell.org/haskellwiki/Mailing_lists)
+* [Hoogle](https://www.haskell.org/hoogle/)
+* [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
+
 # Grading (let's pretend this class is for credit)
 
 Final grade = 50% Homework + 50% Projects + 0% Tests
@@ -25,16 +33,18 @@ Final grade = 50% Homework + 50% Projects + 0% Tests
   * Try things!
   * Write comments.  What works, what doesn't.
     What do you understand?  What is confusing?
-```haskell
--- This is a comment in haskell.
-{- So is this. -}
-```
-* Submit homework to tomahawkins@gmail.com with subject: [fp-intro-homework] \<date\>
+* Submitting homework:
+  * email: tomahawkins@gmail.com
+  * subject: [fp-intro-homework] \<date\>
 
 
 ## Projects
 
-# Sylibus
+Let's shoot for 2 to 3 different projects this semester.  Projects should
+take about 1 to 2 weeks worth of effort.  Start thinking about kinds of
+projects you'd like to try.
+
+# Syllabus
 
 1. Why programming?  It's not just for programmers.
   * Tools always fall short.
@@ -52,6 +62,5 @@ Final grade = 50% Homework + 50% Projects + 0% Tests
 1. Type classes.
 1. The common flow: Parse -> IR -> Process -> IR -> Print
 1. Monads.
-1. Using monads.
 1. Domain specific languages (DSLs).
 
