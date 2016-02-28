@@ -1,66 +1,60 @@
-# Introduction to Functional Programming
+# Introduction to Functional Programming and Haskell
 
-Class homepage:  https://github.com/tomahawkins/fp-intro
+Provide an introduction to
+[functional programming](https://en.wikipedia.org/wiki/Functional_programming)
+using [Haskell](http://haskell.org/) with an emphasis towards data analysis.
+
+## Goals
+
+To get to the point of being able to:
+
+* Feel comfortable navigating the Unix/Linux command line (aka. Terminal).
+* Create programs that read text, perform analysis, and print out results.
+* Understand and break a problem down into a manageable sequence of steps:
+  * What are the input data?
+  * What are the results of the analysis?  How should they be presented?
+  * What are the intermediate stages (datatypes) and steps (functions)?
+
 
 ## Prerequisites
 
-* A laptop.
-  * Bring it to class, open it up, and turn it on.  This class is hands on.
-* A good text editor.
-  * VIM or EMACS.  Please learn one or the other.
-* A basic knowledge of your OS (Mac, Windows, Linux).
-* No fear of the command line.
-  * Terminal (Mac, Linux),  Command Prompt or Cygwin (Windows).
-* The [Haskell Platform](http://www.haskell.org/platform/) installed.
+No prior programming experience required.
+Just a laptop running Mac or Linux with the [Haskell tools](http://www.haskell.org/downloads) installed.
 
 ## Useful Resources
 
-* http://www.haskell.org/
-* Haskell on [stackoverflow](http://stackoverflow.com/questions/tagged?tagnames=haskell)
-* Haskell [Mailing lists](https://www.haskell.org/haskellwiki/Mailing_lists)
-* [Hoogle](https://www.haskell.org/hoogle/)
+### Linux Command Line (aka. Terminal, Bash Shell)
+
+All our work is done from the Linux command line.  Just a basic understanding of 
+how to navigate directories and manipulate files will suffice.
+
+* [Linux Tutorial](http://ryanstutorials.net/linuxtutorial/)
+
+### Text and Code Editors
+
+Though any text editor will do, learning [Vim](http://www.vim.org/) or [Emacs](https://www.gnu.org/software/emacs/)
+is recommended.
+
+* [Interactive Vim Tutorial](http://www.openvim.com/)
+* [Vim Tutorial](https://danielmiessler.com/study/vim/)
+
+### Haskell Tutorials
+
+* [Haskell WikiBook](https://en.wikibooks.org/wiki/Haskell)
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
 
-# Grading (let's pretend this class is for credit)
+### Haskell Groups for Questions, Answers, and Support
 
-Final grade = 50% Homework + 50% Projects + 0% Tests
+* Haskell on [Stackoverflow](http://stackoverflow.com/questions/tagged?tagnames=haskell).
+* [Haskell mailing lists](https://www.haskell.org/haskellwiki/Mailing_lists).  The Haskell-Cafe and Beginners lists are great for newcomers.
+* [Lambda Ladies](http://www.lambdaladies.com/)
+* [Pittsburgh Function Programming Meetup](http://www.meetup.com/Pittsburgh-Functional-Programming-Meetup/)
 
-## Homework
+### Haskell Resources
 
-* Due each day of class, i.e. when I check my email that afternoon.
-* Homework is comprised of one (sometimes more) Haskell programming files
-  exploring the programming problems of the day.
-  * Try things!
-  * Write comments.  What works, what doesn't.
-    What do you understand?  What is confusing?
-* Submitting homework:
-  * email: tomahawkins@gmail.com
-  * subject: [fp-intro-homework] \<date\>
+* [Hoogle](https://www.haskell.org/hoogle/): Search Haskell libraries by name or type signature.
+* [Haskell Libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/index.html): The standard libraries that come with GHC.
+* [Hackage](http://hackage.haskell.org/): A huge collection of various programs and libraries developed by the Haskell community.
 
-
-## Projects
-
-Let's shoot for 2 to 3 different projects this semester.  Projects should
-take about 1 to 2 weeks worth of effort.  Start thinking about kinds of
-projects you'd like to try.
-
-# Syllabus
-
-1. Why programming?  It's not just for programmers.
-  * Tools always fall short.
-  * Automate lames tasks.
-1. Hello Haskell!  Writing and running simple programs.
-1. Basic types and values.
-1. Intro to functions.
-1. Recursive functions: Need to iterate?  Use recursion.
-1. Higher order functions:  Functions are values too!
-1. Pattern matching.
-1. Lists
-  * Data.List.
-  * List comprehensions.
-1. User defined datatypes.
-1. Type classes.
-1. The common flow: Parse -> IR -> Process -> IR -> Print
-1. Monads.
-1. Domain specific languages (DSLs).
+## Code and Notes from Sessions
 
