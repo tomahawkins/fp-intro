@@ -47,7 +47,7 @@ is recommended.
 ### Haskell Groups for Questions, Answers, and Support
 
 * [Haskell Mailing Lists](https://www.haskell.org/haskellwiki/Mailing_lists): The Haskell-Cafe and Beginners lists are great for newcomers.
-* Haskell on [Stackoverflow](http://stackoverflow.com/questions/tagged?tagnames=haskell)
+* [Stackoverflow](http://stackoverflow.com/questions/tagged?tagnames=haskell)
 * [Lambda Ladies](http://www.lambdaladies.com/)
 * [Pittsburgh Functional Programming Meetup](http://www.meetup.com/Pittsburgh-Functional-Programming-Meetup/)
 
