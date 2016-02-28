@@ -42,6 +42,7 @@ is recommended.
 
 * [Haskell WikiBook](https://en.wikibooks.org/wiki/Haskell)
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
+* [99 Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems): If you can do all 99, you're awesome!
 
 ### Haskell Groups for Questions, Answers, and Support
 
@@ -57,4 +58,6 @@ is recommended.
 * [Hackage](http://hackage.haskell.org/): A huge collection of various programs and libraries developed by the Haskell community.
 
 ## Code and Notes from Sessions
+
+* [Examples.hs](https://github.com/tomahawkins/fp-intro/blob/master/Examples.hs)
 
