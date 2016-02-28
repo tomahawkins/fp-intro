@@ -49,7 +49,7 @@ is recommended.
 * [Haskell Mailing Lists](https://www.haskell.org/haskellwiki/Mailing_lists): The Haskell-Cafe and Beginners lists are great for newcomers.
 * Haskell on [Stackoverflow](http://stackoverflow.com/questions/tagged?tagnames=haskell)
 * [Lambda Ladies](http://www.lambdaladies.com/)
-* [Pittsburgh Function Programming Meetup](http://www.meetup.com/Pittsburgh-Functional-Programming-Meetup/)
+* [Pittsburgh Functional Programming Meetup](http://www.meetup.com/Pittsburgh-Functional-Programming-Meetup/)
 
 ### Haskell Resources
 
