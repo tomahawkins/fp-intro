@@ -63,8 +63,22 @@
 You don't have to type long path names or commands.
 The tab key will auto-complete things for you.  
 
+### Stopping tasks.
 
+If a program locks up or appears to be stuck in an infinite loop, Control-C 
+attempts to kill the process.  If that doesn't work, get the process ID 
+and then kill it properly.
 
+    ps -e                   # List all user processes.
+    kill <process-id>       # Kill the stuck process.
+    kill -9 <process-id>    # Use only as a last resort.
 
+### Git revision control and cloning repos from github.com.
+
+    git help
+    git help <command>
+    git clone https://github.com/tomahawkins/fp-intro    # Clone the fp-intro repository.
+    cd fp-intro
+    git pull                                             # Pull down all new updates to a repository.
 
 
