@@ -29,12 +29,15 @@ All our work is done from the Linux command line.  Just a basic understanding of
 how to navigate directories and manipulate files will suffice.
 
 * [Linux Tutorial](http://ryanstutorials.net/linuxtutorial/)
+* [Linux Cheatsheet](http://ryanstutorials.net/linuxtutorial/cheatsheet.php)
 
 ### Text and Code Editors
 
 Though any text editor will do, learning [Vim](http://www.vim.org/) or [Emacs](https://www.gnu.org/software/emacs/)
 is recommended.
 
+* [Vi Tutorial](http://ryanstutorials.net/linuxtutorial/vi.php)
+* [Vi Cheatsheet](http://ryanstutorials.net/linuxtutorial/cheatsheetvi.php)
 * [Interactive Vim Tutorial](http://www.openvim.com/)
 * [Vim Tutorial](https://danielmiessler.com/study/vim/)
 
@@ -60,4 +63,5 @@ is recommended.
 ## Code and Notes from Sessions
 
 * [Examples.hs](https://github.com/tomahawkins/fp-intro/blob/master/Examples.hs)
+* [CommandLine.md](https://github.com/tomahawkins/fp-intro/blob/master/CommandLine.md)
 
