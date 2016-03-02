@@ -55,6 +55,10 @@
     cat <file>        # Print the whole file.
     less <file>       # Scroll through the file.
 
+### Viewing and command history.  Up arrow works too.
+    history             # View recent history.
+    !<history-number>   # Rerun a command.
+
 ### Exiting a shell.
     exit
 
