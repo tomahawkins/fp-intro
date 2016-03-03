@@ -64,4 +64,5 @@ is recommended.
 
 * [Examples.hs](https://github.com/tomahawkins/fp-intro/blob/master/Examples.hs)
 * [CommandLine.md](https://github.com/tomahawkins/fp-intro/blob/master/CommandLine.md)
+* [Lists.hs](https://github.com/tomahawkins/fp-intro/blob/master/Lists.hs)
 
